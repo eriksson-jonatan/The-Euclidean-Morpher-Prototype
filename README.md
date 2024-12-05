@@ -1,6 +1,6 @@
 # The-Euclidean-Morpher-prototype
 This is a prototype program for music production that was developed for a degree project course (HI111X) at KTH Flemingsberg, Stockholm, Sweden.
-It was developed by Jonatan Eriksson in 2024.
+It was developed by Jonatan Eriksson in 2024. The thesis is available at: https://kth.diva-portal.org/smash/get/diva2:1904091/FULLTEXT01.pdf
 
 The Euclidean Morpher inputs one manually rhythmic pattern, one specified Euclidean rhythm, and one parameter named morph.
 By pressing "GENERATE" new rhythmic patterns will be appended to a MIDI file, that can then be saved to a specified location.
